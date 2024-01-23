@@ -1,2 +1,6 @@
 wc < kitty_ipsum_1.txt
 git add .
+echo ~~ kitty_ipsum_1.txt ~~ > kitty_info.txt
+echo ~~ kitty_ipsum_1.txt info ~~ > kitty_info.txt
+echo '~~ kitty_ipsum1.txt info ~~' > kitty_info.txt
+echo "~~ kitty_ipsum_1.txt info ~~" > kitty_info.txt

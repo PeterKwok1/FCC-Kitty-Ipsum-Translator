@@ -134,3 +134,5 @@ grep -n 'cat[a-z]*' kitty_ipsum_1.txt
 grep -n 'cat[a-z]*' kitty_ipsum_1.txt
 grep -n 'cat[a-z]*' kitty_ipsum_1.txt
 grep -n 'cat[a-z]*' kitty_ipsum_1.txt
+echo -e "\n\n~~ kitty_ipsum_2.txt info ~~"
+echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt

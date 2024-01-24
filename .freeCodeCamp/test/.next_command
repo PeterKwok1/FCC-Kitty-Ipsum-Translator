@@ -127,3 +127,5 @@ echo -e "\nNumber of times cat, cats, or catnip appears:" >> kitty_info.txt
 man grep
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt

@@ -80,3 +80,6 @@ man grep
 man grep
 grep kitty_ipsum_1.txt --color
 grep --color 'meow' kitty_ipsum_1.txt
+man grp
+man grep
+grep --color -n 'meow' kitty_ipsum_1.txt

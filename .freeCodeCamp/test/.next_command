@@ -143,3 +143,4 @@ wc -w < kitty_ipsum_2.txt >> kitty_info.txt
 echo -e "\nNumber of characters:" >> kitty_info.txt
 man wc
 wc -m < kitty_ipsum_2.txt >> kitty_info.txt
+git add .

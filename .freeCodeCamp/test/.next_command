@@ -68,3 +68,5 @@ echo -e "\nNumber of lines; "
 echo -e "\nNumber of lines:" >> kitty_info.txt
 cat kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
+echo -e "\nNumber of words:"
+echo -e "\nNumber of words:" >> kitty_info.txt

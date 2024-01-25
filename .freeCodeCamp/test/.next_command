@@ -192,3 +192,8 @@ touch translate.sh
 __vsc_prompt_cmd_original
 chmod +x translate.sh
 which bash
+which bash
+translate.sh < kitty_ipsum_1.txt
+ls --color=auto
+./translate.sh < kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt

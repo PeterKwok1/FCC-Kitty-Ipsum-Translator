@@ -209,3 +209,5 @@ git add .
 git commit -m "finished kitty info, starting translator"
 git push
 cat kitty_ipsum_1.txt
+./translate.sh < kitty_ipsum_1.txt
+./translate.sh kitty_ipsum_1.txt

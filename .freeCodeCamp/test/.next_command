@@ -204,3 +204,5 @@ ls --color=auto
 ls --color=auto -l
 ls --color=auto -a
 ./translate.sh < kitty_ipsum_1.txt
+clear
+git add .

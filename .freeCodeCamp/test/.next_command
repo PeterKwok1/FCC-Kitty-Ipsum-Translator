@@ -191,3 +191,4 @@ grep -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
 __vsc_prompt_cmd_original
 chmod +x translate.sh
+which bash

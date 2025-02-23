@@ -1,10 +1,10 @@
-# FCC-Kitty-Ipsum-Translator
+# FCC Kitty Ipsum Translator
 ## Notes
 - stdout, strerr, stdin
 - redirect 
     - `>, >>` redirect output to file
     - `<` redirect input to file
-- pipe
+- pipe |
 - wc
 - grep 
 - sed 
